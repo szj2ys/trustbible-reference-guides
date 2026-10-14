@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://trustbible-reference.pages.dev/sitemap.xml
+Sitemap: https://szj2ys.github.io/trustbible-reference-guides/sitemap.xml
